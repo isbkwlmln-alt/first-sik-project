@@ -1,0 +1,6 @@
+{
+  "name": "SikhStars: Sikh Baby Names & Astro Guide",
+  "description": "A unique Sikh baby names app with meanings, stellar influences (starts/rashi/nakshatra), and personality guides for boys and girls with modern 2026 data and dynamic AI Astro analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
